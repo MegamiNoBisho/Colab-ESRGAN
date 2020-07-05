@@ -1,5 +1,5 @@
 # Colab-ESRGAN [[Enhanced SRGAN Paper]](https://arxiv.org/abs/1809.00219)
-## Simply download `Colab-ESRGAN-(new&old-arch).ipynb` and open it inside your Google Drive or click [here](https://colab.research.google.com/drive/10DDaSPKlWM8TSRVPOjwtFg0LXGvezXs4?usp=sharing) and copy the file with "File > Save a copy to Drive..." into your Google Drive. 
+## Simply download `Colab-ESRGAN-(new&old-arch).ipynb` and open it inside your Google Drive or click [here](https://colab.research.google.com/github/styler00dollar/Colab-ESRGAN/blob/master/Colab-ESRGAN-(new&old-arch).ipynb) and copy the file with "File > Save a copy to Drive..." into your Google Drive. 
 ### 
 
 ### Credits
@@ -11,8 +11,7 @@ Also thanks to [ata4](https://github.com/ata4) for creating [esrgan-launcher](ht
 
 #### Important information
 
-- If you can't open `Colab-ESRGAN-(new&old-arch).ipynb` inside your Google Drive, try this [colab link](https://colab.research.google.com/drive/10DDaSPKlWM8TSRVPOjwtFg0LXGvezXs4?usp=sharing) and save it to your Google Drive. The "open in Colab"-button can be missing in Google Drive, if that person never used Colab.
-- This master is old-arch and is far more compatible than the original master.
+- If you can't open `Colab-ESRGAN-(new&old-arch).ipynb` inside your Google Drive, try this [colab link](https://colab.research.google.com/github/styler00dollar/Colab-ESRGAN/blob/master/Colab-ESRGAN-(new&old-arch).ipynb) and save it to your Google Drive. The "open in Colab"-button can be missing in Google Drive, if that person never used Colab.
 - ESRGAN tutorials and custom models can be found in this [wiki page](https://upscale.wiki/wiki/Main_Page).
 - Google Colab does assign a random GPU. It depends on luck.
 - The Google Colab VM does have a maximum session length of 12 hours. Additionally there is a 30 minute timeout if you leave colab. The VM will be deleted after these timeouts.
